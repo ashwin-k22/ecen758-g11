@@ -7,11 +7,17 @@ This repo has the code and documentation for experiements with FashionMNIST data
 
 Utilizing different models including KNN and CNN, the goal of this project was to understand the pros and cons of each model. The model was evaluated based off accuracy metrics and quantitative metrics. 
 
-
-
 Directory:
 Includes our report and code. 
 
-How to run the code: 
 
+Location of code: 
+https://github.com/ashwin-k22/ecen758-g11/tree/main
+
+Location of website/blog post:
+https://sr-fahim.github.io/ecen758/#carousel_59a7
+
+How to run the code: 
+install necessary libraries and ensure repo is cloned correctly containing the datasets. 
+git clone and run jupyter notebook 
 
