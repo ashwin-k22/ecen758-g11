@@ -11,6 +11,7 @@ Utilizing different models including KNN and CNN, the goal of this project was t
 Directory:
 Includes our report and code. 
 model_training.ipynb -> contains the project's code 
+ProjectReportGroup11.pdf -> contains the project report 
 
 Location of code: 
 https://github.com/ashwin-k22/ecen758-g11/tree/main
