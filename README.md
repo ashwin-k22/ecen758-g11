@@ -16,7 +16,7 @@ Location of code:
 https://github.com/ashwin-k22/ecen758-g11/tree/main
 
 Location of website/blog post:
-https://sr-fahim.github.io/ecen758G11/
+https://sr-fahim.github.io/ECEN758G11project/
 
 How to run the code: 
 install necessary libraries and ensure repo is cloned correctly containing the datasets. 
