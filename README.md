@@ -26,5 +26,5 @@ git clone and run jupyter notebook
 (Warning: training the CNN Model takes ~30 minutes)
 
 
-In folder with version2:
-Is jupyter notebook if data is not in gzip folder. Please note this takes longer to run the CNN model. 
+In folder(testing):
+Is jupyter notebook if data is not in gzip folder. Please note this takes significantly longer to run the CNN model. 
